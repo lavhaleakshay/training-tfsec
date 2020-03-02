@@ -5,3 +5,7 @@
 ## Installation
 
 See [tfsec docs](https://github.com/liamg/tfsec#installation).
+
+## Tutorial
+
+[![image](https://katapultmedia.com/wp-content/uploads/2020/03/tfsec.jpg)](https://youtu.be/VvH0F6Nrlvc)
